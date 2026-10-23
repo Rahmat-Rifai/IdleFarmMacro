@@ -1,0 +1,25 @@
+## Build & Output directories
+bin/
+obj/
+App/
+App-Standalone/
+publish/
+*.zip
+
+## Visual Studio / Rider / VS Code
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+.vscode/
+.idea/
+
+## Temporary & Log files
+*.tmp
+*.log
+*.png
+*.json
+!appsettings.json
+Thumbs.db
+Desktop.ini
